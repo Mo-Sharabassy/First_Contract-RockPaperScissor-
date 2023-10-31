@@ -1,2 +1,4 @@
 # First_Contract-RockPaperScissor-
-My first solidity contract
+This was a challenge From CodeWars and I decided to 
+share it here as my first contract written in solidtiy
+        Looking forward for more
