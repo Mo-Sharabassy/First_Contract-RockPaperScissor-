@@ -5,7 +5,7 @@ This is a Solidity smart contract for playing the game of Rock, Paper, Scissors 
 ## Contract Details
 
 - **Contract Name:** `RockPaperScissors`
-- **Compiler Version:** `Solidity >= 0.8.0`
+- **Compiler Version:** `Solidity ^0.8.0`
 
 ## Contract Overview
 
